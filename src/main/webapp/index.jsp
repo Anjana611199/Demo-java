@@ -411,7 +411,7 @@
 <!-- HERO -->
 <div class="hero">
     <div class="hero-tag">DevOps &amp; Cloud Architect And AI  Engineer</div>
-    <h1>Building Devops <em>Pipelines</em><br>That Ship Fearlessly</h1>
+    <h1>Building Devops <em>Pipelines</em><br>That Ship contineously</h1>
     <p class="hero-sub">
         I craft CI/CD infrastructure, automate cloud workflows, and bridge
         the gap between development velocity and operational resilience.
